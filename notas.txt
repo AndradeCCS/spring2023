@@ -1,0 +1,18 @@
+arquitetura de API RESTFUL
+
+baseado no vídeo
+https://www.youtube.com/watch?v=wlYvA2b1BWI&ab_channel=MichelliBrito
+
+API de produto
+Spring boot 3 e java 17
+Spring Web MVC
+Spinrg Data JPA
+Spring Validation
+Spring Hateoas
+
+API RESTFUL
+
+C (create - criar) - post
+R (read - ler)- get
+U (update - atualizar)- put 
+D (delete - deletar)- delete
